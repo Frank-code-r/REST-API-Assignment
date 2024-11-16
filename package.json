@@ -1,0 +1,14 @@
+{
+  "name": "web-tech-assignment",
+  "version": "1.0.0",
+  "description": "\"This is my first server to handle route\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Frank Kofi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
